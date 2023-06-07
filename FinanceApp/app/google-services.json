@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "18158062314",
+    "project_id": "organizze-ded9b",
+    "storage_bucket": "organizze-ded9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18158062314:android:ce76f9ef1a09127e152593",
+        "android_client_info": {
+          "package_name": "br.com.gustdev.organizzeclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw3IsUwN2tphSHFEini0bYu8n74tG9BIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
